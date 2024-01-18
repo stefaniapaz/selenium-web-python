@@ -14,3 +14,11 @@ Antes de ejecutar el script, asegúrate de tener instalados los siguientes paque
 - Selenium: Puedes instalarlo usando `pip install selenium`
 - Faker: Puedes instalarlo usando `pip install faker`
 - Webdriver: Necesitas tener un controlador del navegador, en este caso, se ha utilizado ChromeDriver. Asegúrate de descargar la versión compatible con tu navegador desde [la página oficial](https://sites.google.com/chromium.org/driver/).
+
+
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/HQHwvSBSy7s0AXOlWt/giphy.gif" width="200"/>
+</div>
+
+                                                   **Stefania Paz**
